@@ -140,7 +140,7 @@
 		0
 	],
 	"healthicon": "pajero",
-	"flip_x": false,
+	"flip_x": true,
 	"healthbar_colors": [
 		47,
 		49,
